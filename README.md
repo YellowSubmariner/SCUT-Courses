@@ -6,6 +6,7 @@
 
 - [微积分 Calculus](./Calculus/)：历年试卷、参考答案与课程说明
 - [深度学习 DeepLearning](./DeepLearning/HW1/)：HW1，KNN、梯度下降与 MNIST 数据
+- [离散数学 DiscreteMathematics](./DiscreteMathematics/)：Chapter 1 中英双语复习资料、英文原创提高卷与完整解答
 
 ## 联系方式
 
